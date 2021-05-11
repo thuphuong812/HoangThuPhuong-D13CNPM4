@@ -18,5 +18,6 @@
             echo "Value is: " . $_COOKIE[$cookie_name];
         }
     ?>
+<h1>Hello Everyone</h1>
 </body>
 </html>
